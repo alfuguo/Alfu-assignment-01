@@ -1,0 +1,98 @@
+body{
+    background-color: #4915f8;
+    margin: 0px;
+    font-family: Calibri;
+
+}.section-1 {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .section2{
+    display: flex;
+    color: white;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 55px 200px 50px
+  }
+  .section3{
+    display: flex;
+    color: white;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 150px;
+  }
+
+  input[type='email'] {
+    padding: 7px 3px;
+    border-radius: 5px;
+    border: 0px;
+  }
+  input[type='button'] {
+    padding: 7px 20px;
+    font-weight: bold;
+    border: 0px;
+    background-color: #ff7b00;
+    border-radius: 30px;
+    color:white;
+    white-space: normal;
+  }
+  
+
+  a:visited {
+    color: white;
+  }
+  
+  a:hover {
+    color: #999999;
+  }
+  
+  .Headline1{
+    color: white;
+    font-weight: lighter;
+    font-size: 55px;
+
+  }
+
+  .Headline2{
+    color: white;
+    font-weight:600;
+    font-size: 65px;
+
+  }
+
+  .Headline3{
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.727);
+    text-decoration: none;
+  }
+
+  .Headline4{
+    font-size: 28px;
+    color: rgba(255, 255, 255, 0.638);
+    text-decoration: none;
+  }
+  
+  
+
+  .bText1{
+    font-weight:bold;
+    font-size: 35px;
+
+}
+
+.bText2{
+    font-size: 24px;
+
+}
+
+.bText3{
+    font-weight:bold;
+    font-size: 25px;
+    text-decoration:underline;
+    margin-top: 60px;
+
+}
